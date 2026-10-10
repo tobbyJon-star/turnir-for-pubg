@@ -16,7 +16,7 @@ const bot = new Telegraf(TOKEN);
 // Admin username'lari (@ belgisiz)
 const ADMIN_USERNAMES = ['dr_ulugbekovv1', 'tobby_jon_UZ_EN'];
 
-const CARD_NUMBER = '5614 6818 7381 6882 ( Lolaxon Toshyemirova - Karta egasi ) ';
+const CARD_NUMBER = '5614 6818 7381 6882 ( Lolaxon Toshtemirova - Karta egasi ) ';
 const ADMIN_CONTACT = '@dr_ulugbekovv1';
 
 const MAX_TEAMS = 25;
